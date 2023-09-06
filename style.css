@@ -5,8 +5,16 @@ header div{
  header h1{
     padding-top: 5%;
  }
- main{
-    background-color: #6b65a7;
+ main{ 
+   background-color: #6b65a7;
+ }
+ p {
+   writing-mode: vertical-rl;
+   text-orientation: upright;
+ }
+ main img{
+   width: 250px;
+   height: 300px;
  }
  aside{
     width: 30%;
